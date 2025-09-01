@@ -1,6 +1,6 @@
 # Bootstrap Efficiency Model
 
-##Computational Analysis of Bootstrapped Startups
+## Computational Analysis of Bootstrapped Startups
 
 Computational implementation for the research paper **"Bootstrapped Startups in the Digital Economy: Theory and Empirical Validation"** by Spilios Dimakopoulos (August 2025).
 
@@ -86,3 +86,4 @@ For questions about the computational implementation or theoretical framework, p
 
 
 **Note**: This implementation is designed for research and educational purposes. The theoretical model and computational results should be validated against real-world data before application in commercial or policy contexts.
+
